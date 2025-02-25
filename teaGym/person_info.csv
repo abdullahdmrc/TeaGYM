@@ -1,0 +1,24 @@
+type, name, age, phoneNo, gender, password, cabinet, startDate, duration, monday, tuesday, wednesday, thursday,friday, saturday, sunday, height, weight, fatRate
+m, taha yilmaz,0,1234,,1234,,2024-05-15,1,chest,back,leg,,,,,180.000000, 85.000000, 26.000000, 1.800000, 90.000000, 29.000000, 1.800000, 85.000000, 23.000000
+trainer, taha yilmaz,0,12345,,12345,22000,,,, ,,,,180.000000, 85.000000, 26.000000, 180.000000, 82.000000, 23.000000
+m, yilmaz yilmaz,0,1231,,1231,,2024-05-01,6,,,,,,,,
+m, abdullah demirci,0,1232,,1232,,2024-05-14,1,,,,,,,,
+m,  emre kerman,22,1233,,1233,,2024-05-14,6,oqq,jqooqqjoq,jffjqi,,,,,
+m,   ramiz eksi,0,1235,,1235,,2023-12-01,3,back- biceps,,,,,,,1.750000, 96.000000, 38.000000
+m, merih hatay,0,5531854514,,Merih159753,,2003-05-10,1,,,,,,,,1.800000, 90.000000, 26.000000
+m, habil cangir,0,5332727647,,123,,2024-05-15,1,,,,,,,,
+m, emil ismailzade,0,099999999,,emil123,,2024-05-16,6,back- biceps,chest- triceps,leg- shoulder,,,,,1.730000, 60.000000, 11.000000
+m, gokay cavdar,0,5423819199,,123,,2024-05-17,3,,,,,,,,
+m, ali veli,32,112254343,male,22,,2024-01-01,3,,,,,,,,
+TRAINER,  enes yilmaz, 30, 5468767190,  male, 12345, 30000.0,9-18,9-18,9-18,4-13,4-23,18-23,-,
+TRAINER, yusuf yilmaz, 0, 123456, male, 12345, 28000.0,qojfoqj, , ,joqjifoq, , , , 
+m, ege yildirim,0,5050238593,atak helicopter,1234,,2024-04-10,3,back -biceps,chest -triceps,leg - sholulder,,back - biceps,chest -triceps,shoulder,1.780000, 82.000000, 22.000000
+m, taha furkan cengiz,0,123157146,female,123,,2022-12-01,12,,,,,,,,
+m, hihiiii,0,hiiiihuhygy,Male,hghuyyftfttftfy,,2024-01-01,12,,,,,,,,
+m, ,0,rrtyytutrtry,,ytryrtewrrui,,2024-01-01,36,,,,,,,,
+CLEANER, , 0, 798665, , ouiyrt, 0.0,,,,,,,, 
+RECEPTIONIST, , 0, 12345545, , ouiyrt, 0.0,,,,,,,,
+CLEANER, , 0, 23234453, , 4523, 0.0,,,,,,,,
+m, tri viri,0,31124524234,Female,4252,,2024-05-15,6,,,,,,,,
+
+m, ahmet,31,3131,Male,3131,1,2024-05-16,6,,,,,,,,
